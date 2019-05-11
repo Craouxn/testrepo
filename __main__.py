@@ -16,9 +16,9 @@ plt.xlabel("height")
 plt.ylabel("amount")
 plt.yticks([0, 500, 1000])
 
-plt.hist(height, bins = [1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 2.0, 2.1, 2.22])
+plt.hist(height, bins = [1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 2.0, 2.1, 2.22, 2.50])
 plt.show()
-
+#testblabladd
 #plt.scatter(np_city[:,0], np_city[:,1])
 #max(height)
 
